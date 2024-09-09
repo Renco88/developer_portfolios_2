@@ -225,14 +225,17 @@ main{
  /* Footer relative style */
  footer{
   margin-top: 30px;
+  margin-left: 170px;
   text-align: center;
   border-radius: 8px;
   background: #FFF4E7;
-  width: 1440px;
+  width: 80%;
   height: 100px;
+  font-size: 1.2rem;
 }
 
 .footer-container{
+  padding: 30px;
   
 }
 
@@ -272,6 +275,10 @@ main{
   .ten-year{
     position:static;
     max-width: 300px;
+  }
+  footer{
+    width: 100%;
+    margin: 1px;
   }
   }
 x
